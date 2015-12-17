@@ -1,0 +1,22 @@
+#header{
+    text-align:center;
+    padding:20px;
+    background:#FFB6C1;
+}
+
+body {
+    background-color: MistyRose;
+}
+
+h1 {
+    color: White;
+}
+
+p {
+    color: Black ;
+}
+
+#img {
+    width: 500px;
+    height: 100px;
+}
